@@ -5,10 +5,6 @@ PhishGuardian aims to detect whether a URL is safe or not using a decision tree 
 The decision tree algorithm is a machine learning technique that uses a series of binary decisions to classify input data into categories. In the case of PhishGuardian, the algorithm analyzes the characteristics of a URL and decides whether it is safe or not based on a set of pre-defined rules. The algorithm is trained on a dataset of known safe and phishing URLs, so it can accurately classify new URLs that it hasn't seen before. The web app allows users to input a URL and receive a prediction about its safety. The user interface is designed to be user-friendly and intuitive, with clear instructions on how to use the app. Once the user inputs a URL, the app sends the URL to the Python backend, which runs the decision tree algorithm and returns a prediction about the safety of the URL. The prediction is then displayed to the user in the web app.
 The Python backend is responsible for processing the user input, running the decision tree algorithm, and returning the prediction to the web app. The backend is written in Python, which is a popular language for machine learning and data analysis. The backend is also responsible for training the decision tree algorithm on a dataset of known safe and phishing URLs, so it can make accurate predictions.
 
-## Files for reference -
-* [Presentation ](https://www.canva.com/design/DAFdktmiEKU/8EIVJAiIAeuemGgWoWZFkg/edit?utm_content=DAFdktmiEKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* [Demo Vedio](https://drive.google.com/file/d/1jbHC00ibsEOs0XNXANm4zM7d0XBtqDpv/view?usp=share_link)
-
 ## Running the web-application locally
 ```
 git clone https://github.com/aryanraj2713/Phish-Guardian.git
@@ -66,46 +62,15 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ic
 <table align="center">
 <tr align="center">
 <td>
-
-**Puranjay Bhargava**
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/90250628?s=400&u=59a21a80b8390e1aaefed3038d5f87745e4caf55&v=4"  height="120" alt="Puranjay Bhargava">
-</p>
-<p align="center">
-<a href = "https://github.com/puranjayb"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/puranjayb/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-**Aryan Raj**
+  
+  **Ayush Goyal**
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Ayush Goyal">
 </p>
 <p align="center">
 <a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-**Aakash**
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/93485049?v=4"  height="120" alt="Aakash">
-</p>
-<p align="center">
-  
-<a href = "https://github.com/Aakash-sittu"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aakash-sittu/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>

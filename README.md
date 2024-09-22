@@ -68,8 +68,8 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ic
 <img src = "https://avatars.githubusercontent.com/u/64362331?v=4"  height="120" alt="Ayush Goyal">
 </p>
 <p align="center">
-<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+<a href = "https://github.com/ayush12310"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ayush-goyal-6335582a3/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>

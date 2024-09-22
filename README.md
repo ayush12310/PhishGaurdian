@@ -1,6 +1,5 @@
 # PhishGuardian
 ### - Working for a Safer Internet
-### https://kzilla.xyz/phishguardian
 PhishGuardian aims to detect whether a URL is safe or not using a decision tree algorithm. The project uses a web app to interact with users, and a Python backend to process the user input and make predictions about the safety of a given URL.
 The decision tree algorithm is a machine learning technique that uses a series of binary decisions to classify input data into categories. In the case of PhishGuardian, the algorithm analyzes the characteristics of a URL and decides whether it is safe or not based on a set of pre-defined rules. The algorithm is trained on a dataset of known safe and phishing URLs, so it can accurately classify new URLs that it hasn't seen before. The web app allows users to input a URL and receive a prediction about its safety. The user interface is designed to be user-friendly and intuitive, with clear instructions on how to use the app. Once the user inputs a URL, the app sends the URL to the Python backend, which runs the decision tree algorithm and returns a prediction about the safety of the URL. The prediction is then displayed to the user in the web app.
 The Python backend is responsible for processing the user input, running the decision tree algorithm, and returning the prediction to the web app. The backend is written in Python, which is a popular language for machine learning and data analysis. The backend is also responsible for training the decision tree algorithm on a dataset of known safe and phishing URLs, so it can make accurate predictions.
@@ -66,7 +65,7 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ic
   **Ayush Goyal**
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Ayush Goyal">
+<img src = "D:\Pictures\Myself\1720420136387-034ead18-58d8-27c3-51ff-7d63aad88ded-transformed.png"  height="120" alt="Ayush Goyal">
 </p>
 <p align="center">
 <a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>

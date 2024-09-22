@@ -65,7 +65,7 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ic
   **Ayush Goyal**
 
 <p align="center">
-<img src = "D:\Pictures\Myself\1720420136387-034ead18-58d8-27c3-51ff-7d63aad88ded-transformed.png"  height="120" alt="Ayush Goyal">
+<img src = "https://avatars.githubusercontent.com/u/64362331?v=4"  height="120" alt="Ayush Goyal">
 </p>
 <p align="center">
 <a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
